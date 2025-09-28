@@ -1,18 +1,8 @@
-# Wu-json Tap
+# Asahi
 
-## How do I install these formulae?
+My Homebrew tap.
 
-`brew install wu-json/tap/<formula>`
+## Setup
 
-Or `brew tap wu-json/tap` and then `brew install <formula>`.
+`brew tap wu-json/asahi`
 
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "wu-json/tap"
-brew "<formula>"
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
